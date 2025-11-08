@@ -38,7 +38,7 @@ Face-recognition-Attendance-System-Project-main/
 │   ├── person1.jpg
 │   ├── person2.jpg
 │   └── ...
-└── README.md                # Project documentation
+└── README.md                
 
 🧩 Technologies Used
 Technology	Purpose
