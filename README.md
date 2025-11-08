@@ -32,12 +32,19 @@ Secure access systems
 Face-recognition-Attendance-System-Project-main/
 │
 ├── main.py                  # Entry point to start the application
+
 ├── AttendanceProject.py     # Core logic (face recognition + CSV updates)
+
 ├── Attendance.csv           # Attendance record (Name, Time, Date)
+
 ├── Images_Attendance/       # Folder containing known face images
+
 │   ├── person1.jpg
+
 │   ├── person2.jpg
+
 │   └── ...
+
 └── README.md                
 
 🧩 Technologies Used
